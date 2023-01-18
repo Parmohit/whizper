@@ -1,3 +1,5 @@
+// Use telnet as users connected to localhost and port "3490"
+
 #include <cstring>
 #include <iostream>
 #include <vector>
